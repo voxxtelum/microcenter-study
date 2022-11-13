@@ -5,6 +5,7 @@
 *.kml
 *.old
 __pycache__
+*._.ipynb
 
 # General
 .DS_Store
